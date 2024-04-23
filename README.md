@@ -1,7 +1,7 @@
-// qjchristian
-// they/them
-// HTML/CSS/JS
-// frontend hobbyist
+- qjchristian
+- they/them
+- HTML/CSS/JS
+- frontend hobbyist
 
 <!---
 qjchristian/qjchristian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
